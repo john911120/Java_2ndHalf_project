@@ -1,6 +1,8 @@
 # Java_2ndHalf_project
 자바를 활용하여 여러가지 프로그램을 작성한 프로젝트입니다.
 
+![808de6d548df57b8a4d13c8fe569fa613926cba08f9d31ce8c0edf8bdd72fca7](https://user-images.githubusercontent.com/53751665/73323604-54dedb00-428b-11ea-94bb-f17a68d6c541.png)
+
 2가지의 프로그램을 작성하였습니다.
 1. 연락처 관리 프로그램
 2. 이미지 관리 프로그램
